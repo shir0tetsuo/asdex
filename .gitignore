@@ -1,0 +1,8 @@
+settings.json
+node_modules/
+avaira.d*
+avaira_*
+*.junk.*
+test.js
+.env
+*.db
